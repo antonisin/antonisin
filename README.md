@@ -1,8 +1,8 @@
 Hi there 👋! 
 
-My name is **Max**. I am a full stack web developer with 8 years of experience in the industry. My area of expertise is in PHP and JavaScript, and I have a strong passion for creating dynamic and engaging web solutions. I am highly skilled in developing robust, scalable, and efficient applications that deliver an outstanding user experience.
+My name is Max. I’m a senior backend-focused engineer with 10+ years in the industry, building scalable services, APIs, and internal platforms. My core stack is TypeScript/Node.js (NestJS) and PHP (Symfony), and I enjoy turning complex requirements into clean, reliable systems.
 
-I am committed to using industry standards and best practices, and I always strive to write high-level, clean, and maintainable code. I am proficient in both front-end and back-end technologies, utilizing frameworks and libraries, such as ReactJS and Symfony to streamline the development process. I have a deep understanding of databases, server-side architecture and methodology.
+I’m committed to engineering discipline — standards, best practices, and solid methodology. I care about system design, microservices, API design (REST/gRPC), integrations, and production readiness: performance, reliability, and code that stays maintainable over time. I’m also comfortable working across the stack when needed (React), but my strongest area is backend architecture and delivery.
 
 But aside from coding, I have a true passion for tea! I believe that a good cup of tea is essential to a productive day and can help bring clarity to even the most challenging problems. Whether I'm enjoying a warm, comforting brew or a crisp, refreshing glass of iced tea, I find that tea helps me stay focused and inspired.
 
